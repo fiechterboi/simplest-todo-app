@@ -5,7 +5,7 @@ A modern and simple To-Do app. This app allows you to easily add, complete and d
 ## Features
 - Add, complete and delete tasks
 - Dark theme
-- Permanent saving of tasks (with shared_preferences)
+- Local saving of tasks (with shared_preferences)
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/cd07a792-55c1-4375-b205-cc74b4de59de)
