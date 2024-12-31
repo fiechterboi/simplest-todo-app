@@ -1,6 +1,6 @@
 # Simplest ToDo App
 
-A modern and simple To-Do app. This app allows you to easily add, complete and delete your tasks. It also supports a dark theme for an easy-on-the-eyes experience.
+A modern and simple To-Do app. This app allows you to easily add, complete and delete your tasks. It also comes with a dark theme for an eye-friendly experience.
 
 ## Features
 - Add, complete and delete tasks
