@@ -1,16 +1,22 @@
-# untitled
+# Simplest ToDo App
 
-A new Flutter project.
+A modern and simple To-Do app. This app allows you to easily add, complete and delete your tasks. It also supports a dark theme for an easy-on-the-eyes experience.
 
-## Getting Started
+## Features
+- Add, complete and delete tasks
+- Dark theme
+- Permanent saving of tasks (with shared_preferences)
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![image](https://github.com/user-attachments/assets/cd07a792-55c1-4375-b205-cc74b4de59de)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+1. Clone the project:
+   ```bash
+   git clone https://github.com/fiechterboi/simplest-todo-app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install dependencies:
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the application:
+flutter run
